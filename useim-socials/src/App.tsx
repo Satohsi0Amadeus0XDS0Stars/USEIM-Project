@@ -1,7 +1,7 @@
 import Navpart from "./navbar";
 
 function App(){
-  return <div><Navpart/></div>;
+  return <h1 className="text-blue">hola</h1>
 }
 
 export default App;
